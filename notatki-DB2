@@ -1,1 +1,3 @@
-db2ilist   -> create data
+db2ilist	-> create data
+db2start	-> start of instance
+db2stop		-> stop of instance
