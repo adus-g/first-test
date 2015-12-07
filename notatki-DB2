@@ -2,3 +2,4 @@ db2ilist	-> create data
 db2start	-> start of instance
 db2stop		-> stop of instance
 set db2instance=xxx 	-> set an instance
+db2 connect to sample	-> connecting to sample database
