@@ -1,5 +1,9 @@
-db2ilist	-> create data
+db2ilist	-> list instances
+db2icrt		-> create instance
+db2 list db directory	-> show databases
+db2 list tables 	-> show tables
 db2start	-> start of instance
 db2stop		-> stop of instance
 set db2instance=xxx 	-> set an instance
 db2 connect to sample	-> connecting to sample database
+
